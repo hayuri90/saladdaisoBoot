@@ -1,4 +1,4 @@
-# 🥗Salad Daiso (Spring Boot.ver)
+# 🥗Salad Daiso (SpringBoot.ver)
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=4ECA8C&height=200&section=header&text=Team&nbsp;project&nbsp;(Spring&nbsp;Boot.ver)&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=38">
