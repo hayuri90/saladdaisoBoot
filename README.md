@@ -19,14 +19,15 @@
     <h4>📚 개발스택 및 언어 📚</h4>
     <div>
       <div align="center">
-      	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-      	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-      	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-      	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-      	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-      	<br>
       	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=Spring&logoColor=white">
       	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+        <br/>
+      	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+      	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+      	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+      	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+      	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+      	<br>
       	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
       	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=Fluentd&logoColor=white"> 
       </div>
@@ -36,7 +37,7 @@
       </div>
     </div>
     <br/>
-    <h4>🛠 개발도구 🛠</h4>
+    <h4>🛠 개발 도구 🛠</h4>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -45,8 +46,8 @@
 <br/>
 
 <div align='center'>
-  <h4>📆 프로젝트 생성일 📆</h4>
-  <p>2023.08.08.</p>
+  <h4>📆 개발 기간 📆</h4>
+  <p>2023.08.08. ~ 2023.08.25.</p>
 </div>
 <br/><br/>
 
